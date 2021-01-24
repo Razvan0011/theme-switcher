@@ -353,6 +353,11 @@ p.down {
         grid-template-columns: repeat(2, 1fr);
         gap: 30px
     }
+    
+    /* Overview head */
+    #overview-head {
+        margin-top: 50px;
+    }
 
     /* Overview head */
     #overview-head {
